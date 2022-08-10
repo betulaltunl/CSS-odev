@@ -1,0 +1,22 @@
+*{
+    background-color: azure;
+    font-family:'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+    color:darkblue;
+}
+a { 
+    color:gray;
+}
+nav {
+    position: relative;
+    right: 27px;
+    font-size: 20px;
+    list-style-position: inside;
+    
+}
+.liste1  li {
+   
+    display:inline-block; 
+}
